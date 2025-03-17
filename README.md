@@ -1,4 +1,4 @@
-# 🚀 FeDallenge - Frontend Challenge Project
+![WhatsApp Image 2025-03-17 at 05 41 30](https://github.com/user-attachments/assets/af1f934c-af5b-4f12-961b-addf82325149)# 🚀 FeDallenge - Frontend Challenge Project
 
 ![image](https://github.com/user-attachments/assets/15a7e233-151c-459b-9bbc-f595e85638bb)
 
@@ -37,15 +37,16 @@ seed-woc-market/
 │   └── styles.css          # Main CSS file 
 ├── assets/
 │   └── images/             # Product images
-│       ├── gita.png
-│       ├── a1.png
-│       ├── a2.png
-│       ├── a3.png
-│       └── a4.png
+│       ├── image1.png
+│       ├── image2.png
+│       ├── image3.png
+│       ├── image4.png
+│       └── image5.png
 └── pages/
     ├── about.html          # About page
     ├── contact.html        # Contact page
     └── categories.html     # Categories page
+    
 ```
 
 ## 🛠️ Getting Started
@@ -61,6 +62,13 @@ seed-woc-market/
 ### Day 1: Navbar
 
 **Task:** Create a responsive navigation bar with a hamburger menu for mobile
+### On Desktop
+![WhatsApp Image 2025-03-17 at 05 30 51](https://github.com/user-attachments/assets/7974492f-6fe1-4560-9e44-33839ba4d0f4)
+
+### On Mobile
+
+
+![WhatsApp Image 2025-03-17 at 05 41 30](https://github.com/user-attachments/assets/6c9250d3-a4fb-403f-8264-a762a85c8bda)
 
 **Requirements:**
 - Fixed/sticky position at the top
@@ -79,6 +87,13 @@ seed-woc-market/
 - Media queries for responsive design
 
 ### Day 2: Footer
+## On Large Devices - desktop, tablets, ipad etc
+![Uploading WhatsApp Image 2025-03-17 at 05.47.18.jpeg…]()
+
+### On Mobile
+
+![WhatsApp Image 2025-03-17 at 05 50 28](https://github.com/user-attachments/assets/f6dd12c0-4372-485e-8c81-fdbb6935bd45)
+
 
 **Task:** Design a responsive footer with multiple sections
 
