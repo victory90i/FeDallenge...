@@ -88,7 +88,7 @@ seed-woc-market/
 
 ### Day 2: Footer
 ## On Large Devices - desktop, tablets, ipad etc
-![Uploading WhatsApp Image 2025-03-17 at 05.47.18.jpeg…]()
+![WhatsApp Image 2025-03-17 at 05 47 18](https://github.com/user-attachments/assets/71408d4a-8635-464c-bfad-05af6e6f14c3)
 
 ### On Mobile
 
