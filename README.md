@@ -1,5 +1,8 @@
 # 🚀 FeDallenge - Frontend Challenge Project
 
+![image](https://github.com/user-attachments/assets/15a7e233-151c-459b-9bbc-f595e85638bb)
+
+
 > **The best is yet to come!** This challenge will help you sharpen your frontend skills and build a responsive e-commerce website from scratch.
 
 ## 📋 Project Overview
